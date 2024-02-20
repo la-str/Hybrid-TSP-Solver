@@ -1,0 +1,11 @@
+numpy
+networkx
+matplotlib
+qiskit
+qiskit-optimization
+qiskit-aer
+scipy
+scikit-learn
+python-tsp
+pandas
+xlsxwriter
